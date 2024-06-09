@@ -105,6 +105,14 @@ body{
     .last{
         width: 600px;
     }
+    .p{
+        text-align: center;
+    }
+    .image{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
       
 
