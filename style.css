@@ -112,13 +112,13 @@ body{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        border-radius: 50%;
         margin-top: 25px;
     }
-    img{
+    .img{
         display: block;
         margin-left: auto;
         margin-right: auto;
+        padding-top: 20px;
     }
 }
       
